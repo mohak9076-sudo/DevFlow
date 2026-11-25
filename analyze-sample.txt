@@ -1,0 +1,17 @@
+﻿--- TOP-LEVEL KEYS ---
+message
+repository
+languages
+files
+language_stats
+file_types
+composition
+top_level_directories
+config_files
+stats
+tree
+tree_truncated
+readme
+analyzed_at
+--- ARCHITECTURE ---
+--- ANALYTICS ---
